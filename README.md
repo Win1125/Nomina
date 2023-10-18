@@ -31,6 +31,6 @@ Calcula los salarios de los empleados y genera reportes en PDF.
 
 Autores:
 1. Edwin Eladio Fandiño Salazar 20221978016
-2. Laura
+2. Laura Daniela Aponte Beltran
 3. Luz
-4. Juan José
+4. Juan José Cita
